@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Assignment folder"
+		},
+		{
+			"path": "../../Documents/New folder"
+		},
+		{
+			"path": "../connection Mongodb"
+		},
+		{
+			"path": "../page-pulse"
+		},
+		{
+			"path": "../NOVA  PROJECT"
+		},
+		{
+			"path": "../RD SOFTWARE"
+		},
+		{
+			"path": "../routing"
+		},
+		{
+			"path": "../PORTFOLIO"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --bg:#f4f4ef; --fg:#111; --muted:#666; --accent:#e4572e; }
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#0d0d0f; --fg:#f2f2ee; --muted:#8d8d94; }
+}
+html, body { background: var(--bg); color: var(--fg); overflow-x: hidden; }
